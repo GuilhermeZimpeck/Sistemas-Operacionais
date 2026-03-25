@@ -1,4 +1,4 @@
-## wzip and wunzip
+## wzip e wunzip
 
 A próxima ferramenta é um par de programas:
 
