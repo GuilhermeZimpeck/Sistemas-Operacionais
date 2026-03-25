@@ -1,7 +1,7 @@
 # Sistemas-Operacionais
 turma do professor Igor Cesar Ribeiro
 ##
-Esse programas foram pedidos como trabalhos da minha turma de Sistemas Operacionais, pela qual foi supervisionado pelo professor Igor Ribeiro no CEFET-RJ, os codigos foram feitos usando linguagem C, e foram compilados diretamente no LINUX. Todos os codigos foram feitos com a ajuda do meu amigo Giovanni Chagas Senna.
+Esses programas foram pedidos como trabalhos da minha turma de Sistemas Operacionais, pela qual foi supervisionada pelo professor Igor Ribeiro no CEFET-RJ, os codigos foram feitos usando linguagem C, e foram compilados diretamente no LINUX. Todos os codigos foram feitos com a ajuda do meu amigo Giovanni Chagas Senna.
 
 # Projeto 1
 **Descrição**
