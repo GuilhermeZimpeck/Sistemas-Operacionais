@@ -8,7 +8,7 @@ prompt> ./wcat teste.txt
 ...
 ```
 
-Como mostrado, **wcat** lê o arquivo **teste.txt** e imprime seu conteúdo na tela. O "**./**" antes de **wcat** é uma característica do UNIX (o "**.**" indica o diretório atual e a **/** separa do nome do programa). 
+Como mostrado, **wcat** lê o arquivo **teste.txt** e imprime seu conteúdo na tela. O "**./**" antes de **wcat** é uma característica do UNIX (o "**.**" indica o diretório atual e a "**/**" separa do nome do programa). 
 ##
 **Detalhes**
 
